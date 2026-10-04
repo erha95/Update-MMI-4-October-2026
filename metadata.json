@@ -1,0 +1,8 @@
+{
+  "name": "Money Maker Institute (MMI)",
+  "description": "Pusat Pelatihan & Persiapan 13 Skema Sertifikasi Profesi Pasar Modal Indonesia (SKKNI No. 20/2024 & LSP IKEPAMI / BNSP)",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
